@@ -1,0 +1,5 @@
+MAX_CHARS=10000
+WORKING_DIRECTORY='./calculator'
+MAX_PROMPTS = 20
+MODEL='gemini-2.5-flash'
+
