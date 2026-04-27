@@ -1,7 +1,7 @@
 
 from google.genai import types
 from config import WORKING_DIRECTORY
-from functions.get_files_content import *
+from functions.get_file_content import *
 from functions.get_files_info import *
 from functions.run_python_file import *
 from functions.write_file import *
