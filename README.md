@@ -3,7 +3,9 @@
 
 ## Better with virtual environment
 
+prepare the environment
 > `uv venv`
+then activate the environment
 > `source .venv/bin/activate`
 
 Check config file and set up which model you want to use
