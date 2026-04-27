@@ -5,6 +5,7 @@
 
 prepare the environment
 > `uv venv`
+
 then activate the environment
 > `source .venv/bin/activate`
 
