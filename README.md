@@ -1,7 +1,9 @@
 
-# Google Gemini "toy" AI agent
+# Google Gemini and Ollama toy AI agent
 
-## Better with virtual environment
+## Do not use this on your projects without backup
+
+### Better with virtual environment
 
 prepare the environment
 > `uv venv`
