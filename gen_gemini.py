@@ -23,7 +23,6 @@ def prompt_google(user_prompt, verbose=False):
                 tools=[available_functions], system_instruction=SYSTEM_PROMPT,temperature=TEMPERATURE
             ),
         )
-        print (response)
         for candidate in response.candidates:
             messages.append(candidate.content)
         if response.function_calls:
