@@ -19,3 +19,5 @@ Execute with:
 
 prompt is just what you want your prompt to be
 flag --verbose provides extra details on the outcome, mainly prompts used
+
+Agent comes with a python calculator to be used as example.

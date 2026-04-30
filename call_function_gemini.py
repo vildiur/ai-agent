@@ -1,4 +1,3 @@
-
 from google.genai import types
 from config import WORKING_DIRECTORY
 from functions.get_file_content import *
