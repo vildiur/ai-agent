@@ -12,8 +12,10 @@ then activate the environment
 > `source .venv/bin/activate`
 
 Check config file and set up which model you want to use
+
 ***default config for gemini flash, please review config files to select your desired model or switch to ollama provider***
-***modify the .env file which contains your API key, be sure to keep it in gitignore, do not publish your API key!!!!!***
+
+***For Google Gemini: modify the .env file which contains your API key, be sure to keep it in gitignore, do not publish your API key!!!!!***
 
 > `GEMINI_API_KEY='MY-APY-KEY-0000'`
 
