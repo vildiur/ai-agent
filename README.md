@@ -1,7 +1,7 @@
 
 # Google Gemini and Ollama toy AI agent
 
-## Do not use this on your projects, there are little guardrails and cause harm
+## Do not use this on your projects, there are little guardrails that can cause harm, be sure to at least have original files backed up
 
 ### Better with virtual environment
 
