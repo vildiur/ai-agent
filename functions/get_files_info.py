@@ -29,8 +29,8 @@ def get_files_info(working_directory, directory="."):
     
     files = ""
     for object in os.listdir(target_dir):
-        if os.path.isfile:
-            files += f"- {object}: file_size={os.path.getsize(os.path.join(target_dir,object))} bytes, is_dir={os.path.isdir(object)}\n"
+        files += f"- {object}: file_size={os.path.getsize(os.path.join(target_dir,object))} bytes, is_dir={os.path.isdir(os.path.join(target_dir,object))}\n"
+
 
     return files
 
